@@ -55,6 +55,7 @@
  background-color:#F2F2F2;
  padding-left: 50px;
  font-family:"roboto",sans-serif;
+ display: block
 }
 .clear:after {
 	content: "";
